@@ -34,6 +34,9 @@ Install-Package "dbeaver"
 Install-Package "postgresql" '/params:"/Password=SuaSenhaAqui"'
 Install-Package "powerbi"
 Install-Package "powerbigateway"
+"""
+aaaaaaaaaa
+"""
 
 # Baixar o Pentaho
 Write-Host "Baixando Pentaho Data Integration PDI CE..."
