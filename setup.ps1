@@ -28,15 +28,14 @@ function Install-Package {
 
 Install-Chocolatey
 
-# Instalar as ferramentas
 Install-Package "jre8"
 Install-Package "dbeaver"
-Install-Package "postgresql" '/params:"/Password=SuaSenhaAqui"'
+Install-Package "postgresql" '/params:"/Password=postgres"'
 Install-Package "powerbi"
 Install-Package "powerbigateway"
 
 
-# Baixar o Pentaho
+
 Write-Host "Baixando Pentaho Data Integration PDI CE..."
 $downloadUrl = 'https://github.com/ambientelivre/legacy-pentaho-ce/releases/download/pdi-ce-9.4.0.0-343/pdi-ce-9.4.0.0-343.zip'
 $outputFile = "$env:TEMP\pdi-ce-9.4.0.0-343.zip"
