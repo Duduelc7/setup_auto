@@ -1,0 +1,11 @@
+Roteiro de instalação de setup de ferramentas
+
+Script desenvolvido com o intuito de automatizar o processo de instalação de ferramentas para ETL e BI
+o script ultiliza o Chocolatey para instalação das ferramentas:
+
+1 - java jre-8
+2 - Dbeaver
+3 - pentaho data integration
+4 - postgresql
+5 - Power BI
+6 - Power BI gateway
