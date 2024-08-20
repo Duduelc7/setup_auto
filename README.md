@@ -33,7 +33,6 @@ Este script é responsável por instalar as ferramentas de software necessárias
 Para executar este script, utilize o seguinte comando em um terminal PowerShell:
 .\setup.ps1
 
-
 ### 2. `config_ambiente.ps1`
 
 Este script configura variáveis de ambiente necessárias para o Java e automatiza a criação de um banco de dados PostgreSQL e suas tabelas associadas.
