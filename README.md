@@ -1,4 +1,4 @@
-# Documentação do Script de Automação de Setup
+# Script de Automação de Setup
 
 ## Visão Geral
 
