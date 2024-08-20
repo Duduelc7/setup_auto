@@ -31,9 +31,7 @@ Este script é responsável por instalar as ferramentas de software necessárias
 #### Uso:
 
 Para executar este script, utilize o seguinte comando em um terminal PowerShell:
-```ps1
 .\setup.ps1
-```
 
 ### 2. `config_ambiente.ps1`
 
