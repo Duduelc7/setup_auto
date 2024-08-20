@@ -1,7 +1,5 @@
 # Documentação do Script de Automação de Setup
 
-## Teste
-
 ## Visão Geral
 
 Este repositório contém scripts em PowerShell desenvolvidos para automatizar a configuração de ferramentas essenciais de desenvolvimento e a criação de um banco de dados PostgreSQL com suas tabelas. O objetivo principal desses scripts é simplificar a instalação de várias ferramentas utilizando o Chocolatey, um gerenciador de pacotes para Windows, e automatizar a criação de um banco de dados e a estrutura das tabelas necessárias.
