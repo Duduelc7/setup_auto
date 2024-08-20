@@ -57,8 +57,9 @@ Este script configura variáveis de ambiente necessárias para o Java e automati
 #### Uso:
 
 Para executar este script, utilize o seguinte comando em um terminal PowerShell:
+```ps1
 .\config_ambiente.ps1
-
+```
 
 ## Como Usar
 
